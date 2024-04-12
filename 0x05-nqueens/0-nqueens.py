@@ -2,6 +2,8 @@
 """ N QUEENS ALGORITHM WITH BACKTRACKING (RECURSION INSIDE LOOP)
 
     N-queen problem
+    The next algo solve any N queen in any NxN
+    Being N > 3
 """
 import sys
 
